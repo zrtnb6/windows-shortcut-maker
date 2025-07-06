@@ -24,7 +24,7 @@
 
    在脚本同目录下创建 `网站.txt`文档，编码格式为ANSI，在其中填写每个网站的名称和地址，格式如下（名称与网址用空格隔开）：
 
-   GitHub https://github.com
+   `GitHub https://github.com`
 
 ⚠️ 注意事项：
 - 每行一个网站
